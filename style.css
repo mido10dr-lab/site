@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(8, 0, 41);
+}
+
+.title {
+    color: #008cff;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#games {
+    background-color: rgb(41, 39, 39);
+    
+    position: absolute;
+    top: 50;
+    left: 900;
+
+    width: 44px;
+    height: 40px;
+}
+
+#contact {
+    background-color: rgb(41, 39, 39);
+    
+    position: absolute;
+    top: 50;
+    left: 950;
+
+    width: 44px;
+    height: 40px;
+}
+
+#scratch {
+    background-color: rgb(41, 39, 39);
+    
+    position: absolute;
+    top: 50;
+    left: 1000;
+
+    width: 44px;
+    height: 40px;
+}
+
+#youtube {
+    background-color: rgb(41, 39, 39);
+    
+    position: absolute;
+    top: 50;
+    left: 850;
+
+    width: 44px;
+    height: 40px;
+}
+
+#scratch2 {
+    background-color: rgb(41, 39, 39);
+    
+
+    width: 44px;
+    height: 40px;
+}
+
+
+h2 {
+    color: #008cff;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: #008cff;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: #008cff;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    color: #008cff;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Back {
+    background-color: rgb(41, 39, 39);
+    
+    position: absolute;
+    top: 10;
+    left: 0;
+
+    width: 44px;
+    height: 40px;
+}
